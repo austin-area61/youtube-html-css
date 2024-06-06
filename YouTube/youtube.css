@@ -1,9 +1,16 @@
+.search-bar{
+  display: block;
+}
 .thumbnail{
-  height: 300px;
   width: 300px;
-  object-fit: contain;
-  object-position: bottom;
-  border-width: 2px;
-  border-color: red;
-  border-style: solid;
+  display: block;
+}
+.video-title{
+  width: 300px;
+}
+.video-preview{
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
 }
