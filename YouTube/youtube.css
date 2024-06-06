@@ -1,3 +1,6 @@
+p{
+  font-family: Roboto, Arial;
+}
 .search-bar{
   display: block;
 }
@@ -13,6 +16,9 @@
 }
 .video-title{
   margin-top: 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
 }
 .channel-picture{
   display: inline-block;
@@ -24,5 +30,9 @@
   width: 200px;
 }
 .profile-picture{
-  width: 50px;
+  width: 40px;
+  border-radius: 50px;
+}
+.thumbnail-row{
+  margin-bottom: 10px;
 }
