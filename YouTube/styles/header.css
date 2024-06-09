@@ -5,7 +5,6 @@
   justify-content: space-between;
 }
 .left-section{
-  width: 150px;
   display: flex;
   align-items: center;
 }
