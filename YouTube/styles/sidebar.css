@@ -6,9 +6,10 @@
   width: 72px;
   background-color: white;
   z-index: 200;
+  padding-top: 5px;
 }
 .sidebar-link{
-  height: 76px;
+  height: 74px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,7 +17,7 @@
   cursor: pointer;
 }
 .sidebar-link:hover{
-  background-color: rgb(234, 234, 234);
+  background-color: rgb(235, 235, 235);
 }
 .sidebar-link img{
   height: 24px;
